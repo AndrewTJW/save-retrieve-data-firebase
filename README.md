@@ -7,6 +7,7 @@ Figured out how to retrieve data from database and using it
 ## IMPORTANT NOTES
 
 1. Classes must declare [FirestoreData] & [FirestoreProperty] for database mapping
+2. Class property encapsulation must be **_public_**
 
 _**Example:**_
 
